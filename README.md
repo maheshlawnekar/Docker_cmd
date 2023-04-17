@@ -4,3 +4,4 @@ docker pull centos                                              to download imag
 docker run -it --name mahesh ubuntu                             to give name to container
 docker start mahesh                                             to start container
 docker attach mahesh                                            to go inside the container
+docker ps -a                                                    to see all container
