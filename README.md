@@ -6,3 +6,4 @@ docker start mahesh                                             to start contain
 docker attach mahesh                                            to go inside the container
 docker ps -a                                                    to see all container
 docker stop mahesh                                              to stop container
+docker rm mahesh                                                to delete container
