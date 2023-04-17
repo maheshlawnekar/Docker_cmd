@@ -5,3 +5,4 @@ docker run -it --name mahesh ubuntu                             to give name to 
 docker start mahesh                                             to start container
 docker attach mahesh                                            to go inside the container
 docker ps -a                                                    to see all container
+docker stop mahesh                                              to stop container
